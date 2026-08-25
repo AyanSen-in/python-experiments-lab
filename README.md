@@ -38,7 +38,7 @@ library_management_system/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/AyanSen-in/library-management-system.git
 
 # Navigate to directory
 cd library-management-system
