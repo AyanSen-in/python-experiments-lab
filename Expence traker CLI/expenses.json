@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2026-08-25",
+    "description": "hhhhh",
+    "amount": 68763769.0,
+    "category": "Shopping"
+  },
+  {
+    "id": 2,
+    "date": "2026-08-25",
+    "description": ";adk;nncnddlgbjlku7er",
+    "amount": 1.1111111111111122e+36,
+    "category": "Food"
+  },
+  {
+    "id": 3,
+    "date": "2026-08-25",
+    "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "amount": 3.3333333333333333e+270,
+    "category": "Other"
+  }
+]
