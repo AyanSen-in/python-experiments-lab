@@ -130,10 +130,10 @@ Distributed under MIT License. See `LICENSE` for details.
 
 ## 📞 Contact
 
-Your Name - [@twitter](https://twitter.com/yourname) - email@example.com
+Your Name - [@twitter](https://x.com/AyanSen_) 
 
-Project Link: [https://github.com/yourusername/library-management-system](https://github.com/yourusername/library-management-system)
+Project Link: (https://github.com/yourusername/library-management-system)
 
----
+--
 
 <p align="center">Made with ❤️ for learning OOP</p>
