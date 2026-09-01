@@ -47,7 +47,7 @@ git clone https://github.com/AyanSen-in/quize_game.git
 ### 2. Go to the Project Folder
 
 ```bash
-cd your-repository-name
+cd quize_game
 ```
 
 ### 3. Run the Python File
