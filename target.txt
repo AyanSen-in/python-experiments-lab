@@ -1,0 +1,2 @@
+make more simplified .
+like the first and last rendom must be fully random , use rendom function to make that .
