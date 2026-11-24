@@ -1,0 +1,2 @@
+# Standard library only (turtle, tkinter).
+# No external pip dependencies required.
